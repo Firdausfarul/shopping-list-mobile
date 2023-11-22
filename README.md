@@ -1,3 +1,7 @@
+# Link Aplikasi
+
+[![Build status](https://build.appcenter.ms/v0.1/apps/69261fd5-3c1e-46f6-8d92-bbfede7e4ed8/branches/main/badge)](https://appcenter.ms)
+
 # shopping_list
 
 A new Flutter project.
